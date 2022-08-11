@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-image: url(images/wallpapersden.com_binary-numbers-raining_6500x3520.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+section{
+  border-radius: 50px;
+  margin: 50px;
+  padding: 50px;
+  background-color: rgba(0, 0, 0, 0.658);
+  width: auto;
+  height: auto;
+  color: white;
+  
+}
+div h1{
+  margin-bottom: 20px;
+  text-align: center;
+}
+div label, div input, div input{
+  margin-top: 7px;
+}
+button{
+  border-radius: 5px;
+  border-color: transparent;
+}
+button:hover{
+  
+  background-color: rgb(35, 75, 255);
+  color: rgb(255, 255, 255);
+  
+}
